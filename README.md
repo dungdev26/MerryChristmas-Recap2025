@@ -68,6 +68,9 @@ python -m http.server 8000
 npx http-server .
 ```
 
+Upload ảnh khi sử dụng 
+hoặc kéo code về thêm ảnh , đánh số thứ tự ảnh từ 1 đến ..VV max 200 cái
+
 
 
 **Merry Christmas\! 🎅**
